@@ -1,0 +1,14 @@
+payload:
+  - DOMAIN,prd-storage-umamusume.akamaized.net
+  - PROCESS-NAME,umamusume.exe
+  - DOMAIN-SUFFIX,cygames.jp
+  - PROCESS-NAME,heavenburnsred.exe
+  - DOMAIN-SUFFIX,heaven-burns-red.wfs.games
+  - PROCESS-NAME,Shadowverse.exe
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN,jp.nexon.com
+  - DOMAIN-SUFFIX,nexon.co.jp
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - PROCESS-NAME,DMMGamePlayer.exe

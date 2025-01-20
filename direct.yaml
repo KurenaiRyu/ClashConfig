@@ -1,0 +1,27 @@
+payload:
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN,schale.gg
+  - DOMAIN-SUFFIX,manhuagui.com
+  - PROCESS-NAME,RustDesk.exe
+  - DOMAIN-SUFFIX,vcb-s.com
+  # - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,humblebundle.com
+  - DOMAIN-SUFFIX,kiko-play-niptan.one
+  - DOMAIN-SUFFIX,jimmywarting.github.io
+  - PROCESS-PATH-REGEX,.*Snow\\\\data\\\\.*\\\\.*\.exe
+  - PROCESS-PATH-REGEX,.*Wuthering Waves\\\\.*\\\\.*\.exe
+  - DOMAIN-SUFFIX,hath.network
+  - DOMAIN,sh.hugo0.moe
+  - DOMAIN-SUFFIX,bangumi.online
+  - DOMAIN-SUFFIX,pixiv.re
+  - DOMAIN,yacd.haishan.me
+  - DOMAIN,clash.razord.top
+  - PROCESS-NAME,qbee.exe
+  - DOMAIN,files.yande.re
+  - DOMAIN,bgm.kurenai.moe
+  - PROCESS-NAME,tcping.exe
+  - DOMAIN-SUFFIX,ip.sb
+  - PROCESS-NAME,CloudflareST.exe
+  - IP-CIDR,2001:bc8:1640:b4c:dc00:ff:fe23:87d9/32,no-resolve
+  - IP-CIDR,152.70.102.14
+  - DOMAIN-SUFFIX,bgm.tv
