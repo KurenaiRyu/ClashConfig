@@ -25,3 +25,4 @@ payload:
   - IP-CIDR,2001:bc8:1640:b4c:dc00:ff:fe23:87d9/32,no-resolve
   - IP-CIDR,152.70.102.14
   - DOMAIN-SUFFIX,bgm.tv
+  - DOMAIN-SUFFIX,zoom.us
