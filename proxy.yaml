@@ -1,3 +1,2 @@
 payload:
-  - AND((IN-TYPE,SOCKS),(PROCESS-NAME,qbittorrent.exe))
   - DOMAIN-SUFFIX,bangumi.moe
