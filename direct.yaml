@@ -5,6 +5,8 @@ payload:
   - PROCESS-NAME,RustDesk.exe
   - DOMAIN-SUFFIX,vcb-s.com
   # - DOMAIN-SUFFIX,dmhy.org
+  - DOMAIN-SUFFIX,visualstudio.com
+  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,humblebundle.com
   - DOMAIN-SUFFIX,kiko-play-niptan.one
   - DOMAIN-SUFFIX,jimmywarting.github.io
