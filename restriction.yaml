@@ -13,3 +13,4 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - PROCESS-NAME,DMMGamePlayer.exe
   - PROCESS-NAME,UmamusmePrettyDerby_Jpn.exe
+  - DOMAIN-SUFFIX,cygames.com
