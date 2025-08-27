@@ -14,3 +14,4 @@ payload:
   - PROCESS-NAME,DMMGamePlayer.exe
   - PROCESS-NAME,UmamusmePrettyDerby_Jpn.exe
   - DOMAIN-SUFFIX,cygames.com
+  - DOMAIN-SUFFIX,so-net.tw
