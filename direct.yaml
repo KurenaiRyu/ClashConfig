@@ -29,5 +29,6 @@ payload:
   - DOMAIN-SUFFIX,bgm.tv
   - DOMAIN-SUFFIX,zoom.us
   - PROCESS-NAME,onedrive.exe
-  - DOMAIN-SUFFIX,windowsupdate.com,DIRECT
-  - DOMAIN-SUFFIX,windows.com,DIRECT
+  - DOMAIN-SUFFIX,windowsupdate.com
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN,bbs.acgrip.com
