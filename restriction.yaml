@@ -1,17 +1,16 @@
 payload:
   - DOMAIN,prd-storage-umamusume.akamaized.net
-  - PROCESS-NAME,umamusume.exe
+  - PROCESS-NAME,UmamusmePrettyDerby_Jpn.exe
+  - DOMAIN-SUFFIX,umamusume.jp
   - DOMAIN-SUFFIX,cygames.jp
+  - DOMAIN-SUFFIX,cygames.com
   - PROCESS-NAME,heavenburnsred.exe
   - DOMAIN-SUFFIX,heaven-burns-red.wfs.games
   - PROCESS-NAME,Shadowverse.exe
   - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-SUFFIX,cygames.jp
   - DOMAIN,jp.nexon.com
   - DOMAIN-SUFFIX,nexon.co.jp
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
   - PROCESS-NAME,DMMGamePlayer.exe
-  - PROCESS-NAME,UmamusmePrettyDerby_Jpn.exe
-  - DOMAIN-SUFFIX,cygames.com
   - DOMAIN-SUFFIX,so-net.tw
