@@ -32,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,windowsupdate.com
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN,bbs.acgrip.com
+  - DOMAIN-SUFFIX,gradle.org
