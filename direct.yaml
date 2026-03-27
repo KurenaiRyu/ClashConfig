@@ -8,7 +8,6 @@ payload:
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,humblebundle.com
-  - DOMAIN-SUFFIX,kiko-play-niptan.one
   - DOMAIN-SUFFIX,jimmywarting.github.io
   - PROCESS-PATH-REGEX,.*Snow\\\\data\\\\.*\\\\.*\.exe
   - PROCESS-PATH-REGEX,.*Wuthering Waves\\\\.*\\\\.*\.exe
@@ -33,3 +32,4 @@ payload:
   - DOMAIN-SUFFIX,windows.com
   - DOMAIN,bbs.acgrip.com
   - DOMAIN-SUFFIX,gradle.org
+  - PROCESS-NAME,ms-teams.exe

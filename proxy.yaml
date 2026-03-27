@@ -1,2 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,bangumi.moe
+
+  # ASMR
+  - DOMAIN-SUFFIX,asmr.one
+  - DOMAIN-SUFFIX,kiko-play-niptan.one
