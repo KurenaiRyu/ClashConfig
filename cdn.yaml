@@ -1,4 +1,4 @@
 payload:
   - DOMAIN,cdn.jsdelivr.net
   - DOMAIN,cdn.zenless.app
-  - DOMAIN,download-cdn.jetbrains.com
+#  - DOMAIN,download-cdn.jetbrains.com
